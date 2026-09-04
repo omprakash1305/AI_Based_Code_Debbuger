@@ -97,4 +97,4 @@ You can choose the preferred AI model from the sidebar while coding.
 
 
 ## 📧 Contact  
-For any questions, reach out to **learningcsc97@gmail.com**.
+For any questions, reach out to **learningcsc97@gmail.com**,**omprakashsuresh13@gmail.com**.
